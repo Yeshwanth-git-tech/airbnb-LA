@@ -7,6 +7,9 @@ The flow starts from MongoDB preprocessing → exporting cleaned CSV → uploadi
 
 ---
 
+<img width="862" alt="Screenshot 2025-05-21 at 12 47 45 PM" src="https://github.com/user-attachments/assets/5b94b605-9cbd-43e1-9481-7a01a04c16f2" />
+
+
 ## 🛠️ Workflow Summary
 
 1. ✅ Clean raw Airbnb data inside **MongoDB**
