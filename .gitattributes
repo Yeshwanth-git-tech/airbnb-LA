@@ -1,1 +1,4 @@
 mongoDB_preprocessing/mongodb_cleaning_script.js linguist-vendored
+
+*.sql linguist-detectable=true
+*.js linguist-detectable=false
