@@ -1,4 +1,6 @@
 mongoDB_preprocessing/mongodb_cleaning_script.js linguist-vendored
 
 *.sql linguist-detectable=true
+*.bigquery linguist-detectable=true
+*.nosql linguist-detectable=true
 *.js linguist-detectable=false
